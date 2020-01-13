@@ -33,6 +33,22 @@ _그렇다면 이러한 특성을 이해한 뒤에는 어디에 적용되는지�
 
 </br>
 
+* 더 나아가기
+
+URL의 최대 길이는?
+https://support.microsoft.com/en-us/help/208427/maximum-url-length-is-2-083-characters-in-internet-explorer
+
+POST의 Body 최대 길이는?
+https://stackoverflow.com/questions/2880722/can-http-post-be-limitless
+
+HTTP Header의 옵션들은?
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+Fetch에서는?
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+
+
 ## TCP 3-way-handshake
 
 일부 그림이 포함되어야 하는 설명이므로 링크를 대신 첨부합니다.
